@@ -1,12 +1,7 @@
 <div align="center">
 <h1>Neopoly v1.2</h1>
 <p><b>Advanced Visual Configuration Engine for Polybar</b></p>
-​<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.8%2B-blue%3Fstyle%3Dflat-square%26logo%3Dpython" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Framework-PyQt5-green%3Fstyle%3Dflat-square%26logo%3Dqt" alt="PyQt5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow%3Fstyle%3Dflat-square" alt="License">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Platform-Linux-lightgrey%3Fstyle%3Dflat-square%26logo%3Dlinux" alt="Linux">
-</p>
+
 </div>
 ​<hr>
 ​Обзор проекта
