@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Neopoly v1.2</h1>
 <p><b>Advanced Visual Configuration Engine for Polybar</b></p>
-
+<img src="https://files.catbox.moe/zxa67e.jpg" alt="Python">
+<img
 </div>
 ​<hr>
 ​Обзор проекта
